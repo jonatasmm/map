@@ -1,1 +1,1 @@
-# Templates para utilização da equipe de requisistos do Projeto MAP/UnB
+# Templates para utilização da equipe de requisitos do Projeto MAP/UnB
